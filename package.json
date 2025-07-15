@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "apphosting-adapter-nextjs-build"
+    "apphosting:build": "apphosting-adapter-nextjs-build"
   },
   "author": "",
   "license": "ISC",
