@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "apphosting-adapter-nextjs-build"
+    "build": "wei-adapter-nextjs-build"
   },
   "author": "",
   "license": "ISC",
@@ -46,6 +46,7 @@
   "dependencies": {
     "next": "~15.2.4",
     "@apphosting/adapter-nextjs": "14.0.15",
+    "wei-adapter-nextjs": "14.0.19",
     "react": "19.0.0",
     "react-dom": "19.0.0",
     "save-dev": "^0.0.1-security"
