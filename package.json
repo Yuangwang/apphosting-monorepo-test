@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "wei-adapter-nextjs-build"
+    "build": "wei-apphosting-adapter-nextjs-build"
   },
   "author": "",
   "license": "ISC",
